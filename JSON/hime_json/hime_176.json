@@ -1,0 +1,63 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    650.6341463414633,
+                    1997.560975609756
+                ],
+                [
+                    1209.170731707317,
+                    2370.731707317073
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    340.8780487804877,
+                    2356.0975609756097
+                ],
+                [
+                    836.0,
+                    2797.560975609756
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    645.7560975609756,
+                    2900.0
+                ],
+                [
+                    1260.3902439024391,
+                    3487.80487804878
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_176.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

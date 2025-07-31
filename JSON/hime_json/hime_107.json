@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1216.701754385965,
+                    1664.6666666666667
+                ],
+                [
+                    1628.982456140351,
+                    1985.719298245614
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1681.614035087719,
+                    2108.5263157894738
+                ],
+                [
+                    2123.719298245614,
+                    2496.245614035088
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1441.2631578947369,
+                    2150.631578947369
+                ],
+                [
+                    1718.456140350877,
+                    2443.6140350877195
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1090.3859649122808,
+                    2224.315789473684
+                ],
+                [
+                    1448.280701754386,
+                    2661.157894736842
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_107.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

@@ -1,0 +1,27 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1177.6666666666665,
+                    2112.5833333333335
+                ],
+                [
+                    1731.8333333333335,
+                    2695.916666666667
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_171.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

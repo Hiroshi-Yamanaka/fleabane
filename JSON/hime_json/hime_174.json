@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    844.3333333333335,
+                    1220.9166666666667
+                ],
+                [
+                    1340.1666666666665,
+                    1650.0833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1140.1666666666665,
+                    1737.5833333333335
+                ],
+                [
+                    1636.0000000000005,
+                    2175.0833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1265.1666666666665,
+                    2483.416666666667
+                ],
+                [
+                    1677.6666666666665,
+                    2912.5833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    944.3333333333335,
+                    2800.0833333333335
+                ],
+                [
+                    1402.6666666666665,
+                    3266.75
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_174.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

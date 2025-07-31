@@ -1,0 +1,153 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    508.8571428571429,
+                    1217.142857142857
+                ],
+                [
+                    931.7142857142857,
+                    1504.2857142857142
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1418.2222222222224,
+                    2064.4444444444443
+                ],
+                [
+                    1769.3333333333333,
+                    2408.8888888888887
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    222.66666666666674,
+                    2004.4444444444443
+                ],
+                [
+                    556.0,
+                    2326.6666666666665
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    687.1111111111111,
+                    1884.4444444444443
+                ],
+                [
+                    1002.6666666666667,
+                    2195.5555555555557
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    2116.0,
+                    2122.222222222222
+                ],
+                [
+                    2484.8888888888887,
+                    2526.6666666666665
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    931.5555555555557,
+                    1568.888888888889
+                ],
+                [
+                    1196.0000000000002,
+                    1802.2222222222222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1551.5555555555554,
+                    1660.0
+                ],
+                [
+                    1922.6666666666667,
+                    1940.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    547.1111111111113,
+                    1486.6666666666667
+                ],
+                [
+                    793.7777777777778,
+                    1682.2222222222222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_179.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

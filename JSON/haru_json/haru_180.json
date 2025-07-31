@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    891.263157894737,
+                    592.7368421052633
+                ],
+                [
+                    429.8596491228071,
+                    938.3508771929826
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1484.2456140350876,
+                    1190.982456140351
+                ],
+                [
+                    1078.982456140351,
+                    805.0175438596493
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1112.3157894736842,
+                    1626.0701754385964
+                ],
+                [
+                    682.4912280701756,
+                    1273.438596491228
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1115.8245614035088,
+                    1280.4561403508771
+                ],
+                [
+                    628.1052631578949,
+                    878.701754385965
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_180.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

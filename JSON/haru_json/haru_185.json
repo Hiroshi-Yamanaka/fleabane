@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1611.0,
+                    1850.0
+                ],
+                [
+                    1080.5652173913045,
+                    1410.8695652173913
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1487.0869565217392,
+                    2197.8260869565215
+                ],
+                [
+                    1054.4782608695652,
+                    1856.5217391304348
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1061.0,
+                    2302.173913043478
+                ],
+                [
+                    611.0,
+                    1884.782608695652
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1061.0,
+                    1882.6086956521738
+                ],
+                [
+                    737.0869565217392,
+                    1473.9130434782608
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_185.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

@@ -1,0 +1,63 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    694.7719298245615,
+                    1227.8245614035088
+                ],
+                [
+                    1301.7894736842104,
+                    1755.8947368421052
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1407.0526315789473,
+                    1264.6666666666667
+                ],
+                [
+                    803.543859649123,
+                    690.9824561403511
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    636.8771929824562,
+                    1019.0526315789475
+                ],
+                [
+                    1070.2105263157894,
+                    1296.2456140350878
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_181.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

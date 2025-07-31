@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1251.948051948052,
+                    1762.2857142857142
+                ],
+                [
+                    1523.3766233766232,
+                    1960.9870129870128
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1344.155844155844,
+                    1967.4805194805194
+                ],
+                [
+                    1674.025974025974,
+                    2172.6753246753246
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1346.7532467532467,
+                    2202.5454545454545
+                ],
+                [
+                    1077.922077922078,
+                    2031.116883116883
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1266.2337662337661,
+                    1876.5714285714284
+                ],
+                [
+                    1010.3896103896103,
+                    2071.3766233766237
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_184.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

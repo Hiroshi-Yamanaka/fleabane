@@ -1,0 +1,27 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1088.0833333333335,
+                    1262.5833333333335
+                ],
+                [
+                    1754.75,
+                    1870.9166666666667
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_116.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

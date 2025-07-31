@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1839.2608695652175,
+                    2030.4347826086955
+                ],
+                [
+                    2430.5652173913045,
+                    2652.173913043478
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1906.6521739130435,
+                    1813.0434782608695
+                ],
+                [
+                    1411.0,
+                    2256.5217391304345
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    697.9565217391305,
+                    2093.478260869565
+                ],
+                [
+                    1328.3913043478262,
+                    2654.3478260869565
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    967.5217391304348,
+                    1721.7391304347825
+                ],
+                [
+                    1487.0869565217392,
+                    2189.1304347826085
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_131.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

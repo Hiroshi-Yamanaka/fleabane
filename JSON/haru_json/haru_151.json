@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1525.5833333333335,
+                    1900.0833333333335
+                ],
+                [
+                    2142.25,
+                    2475.0833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1254.2926829268292,
+                    619.5121951219512
+                ],
+                [
+                    1905.5121951219512,
+                    1117.0731707317073
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    581.1219512195121,
+                    241.46341463414632
+                ],
+                [
+                    1273.8048780487807,
+                    848.780487804878
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    983.560975609756,
+                    780.4878048780487
+                ],
+                [
+                    1561.6097560975609,
+                    1275.6097560975609
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_151.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

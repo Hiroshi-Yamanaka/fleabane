@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1467.25,
+                    1466.75
+                ],
+                [
+                    2129.75,
+                    2029.25
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    2561.609756097561,
+                    1787.8048780487804
+                ],
+                [
+                    2986.0,
+                    2321.951219512195
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1005.5121951219512,
+                    1724.390243902439
+                ],
+                [
+                    1449.4146341463415,
+                    2185.3658536585363
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1705.5121951219512,
+                    1256.0975609756097
+                ],
+                [
+                    2390.8780487804875,
+                    1551.2195121951218
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_200.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

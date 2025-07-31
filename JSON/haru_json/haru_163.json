@@ -1,0 +1,99 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1209.5294117647059,
+                    794.0784313725491
+                ],
+                [
+                    1789.921568627451,
+                    1329.372549019608
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1423.2549019607845,
+                    1596.0392156862745
+                ],
+                [
+                    1995.8039215686272,
+                    2196.0392156862745
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    991.8823529411765,
+                    1715.6470588235295
+                ],
+                [
+                    1531.0980392156862,
+                    2309.764705882353
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    952.6666666666666,
+                    947.0196078431372
+                ],
+                [
+                    1440.9019607843138,
+                    1411.7254901960785
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    793.843137254902,
+                    1470.549019607843
+                ],
+                [
+                    1254.627450980392,
+                    1996.0392156862745
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_163.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

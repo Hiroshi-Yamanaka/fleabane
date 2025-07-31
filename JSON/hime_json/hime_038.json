@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1448.5000000000005,
+                    291.74999999999994
+                ],
+                [
+                    2252.6666666666665,
+                    1066.75
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1477.6666666666665,
+                    3116.75
+                ],
+                [
+                    2181.8333333333335,
+                    3750.0833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1252.6666666666665,
+                    1087.5833333333335
+                ],
+                [
+                    2056.8333333333335,
+                    1812.5833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1265.1666666666665,
+                    1700.0833333333335
+                ],
+                [
+                    2144.3333333333335,
+                    2312.5833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_038.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

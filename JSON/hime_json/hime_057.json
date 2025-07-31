@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    991.7142857142858,
+                    1009.9999999999999
+                ],
+                [
+                    1404.5714285714284,
+                    1339.9999999999998
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1614.5714285714284,
+                    1132.8571428571427
+                ],
+                [
+                    2033.142857142857,
+                    1399.9999999999998
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1356.0,
+                    1155.7142857142856
+                ],
+                [
+                    1753.142857142857,
+                    1455.7142857142856
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1150.2857142857142,
+                    1355.7142857142856
+                ],
+                [
+                    1671.7142857142856,
+                    1827.1428571428569
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_057.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1292.2077922077922,
+                    1770.077922077922
+                ],
+                [
+                    1776.6233766233765,
+                    2196.0519480519483
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1901.2987012987012,
+                    1449.2987012987012
+                ],
+                [
+                    2223.3766233766232,
+                    1851.8961038961038
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1632.4675324675325,
+                    1251.8961038961038
+                ],
+                [
+                    1933.7662337662337,
+                    1492.155844155844
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "hime",
+            "points": [
+                [
+                    1396.103896103896,
+                    1375.2727272727273
+                ],
+                [
+                    1889.6103896103896,
+                    1794.7532467532467
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "hime_060.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}

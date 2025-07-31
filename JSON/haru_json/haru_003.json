@@ -1,0 +1,81 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1258.916666666667,
+                    1304.25
+                ],
+                [
+                    1738.083333333334,
+                    1741.75
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1067.25,
+                    1462.5833333333335
+                ],
+                [
+                    1508.916666666667,
+                    1962.5833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    1183.916666666667,
+                    1962.5833333333335
+                ],
+                [
+                    1396.416666666667,
+                    2258.416666666667
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "haru",
+            "points": [
+                [
+                    933.916666666667,
+                    1387.5833333333335
+                ],
+                [
+                    1163.0833333333335,
+                    1812.5833333333335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "haru_003.jpg",
+    "imageHeight": 4096,
+    "imageWidth": 3072
+}
